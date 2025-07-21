@@ -9,11 +9,14 @@ A beginner-friendly C# Windows Forms application that simulates a fast-food rest
 ### 🏠 Main Order Screen
 ![Main Screen](./Assets/StartCommand.png)
 
+### 🧀 Menue Options
+![Menue Options](./Assets/MenuOptions.png)
+
 ### 🍕 Pizza Customization Screen
-![Pizza Screen](./assets/pizza_form.png)
+![Pizza Screen](./Assets/CommandInfo.png)
 
 ### 🧾 Order Summary Card
-![Order Card](./assets/order_card.png)
+![Order Card](./assets/ClientOrder)
 
 ---
 
