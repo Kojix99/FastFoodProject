@@ -16,7 +16,7 @@ A beginner-friendly C# Windows Forms application that simulates a fast-food rest
 ![Pizza Screen](./Assets/CommandInfo.png)
 
 ### 🧾 Order Summary Card
-![Order Card](./assets/ClientOrder)
+![Order Card](./Assets/ClientOrder)
 
 ---
 
